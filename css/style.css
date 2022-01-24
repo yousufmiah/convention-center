@@ -7,7 +7,7 @@ body{
 }
 
 .text-color{
-    color: rgb(0, 0, 0);
+    color: rgb(223, 245, 31);
 }
 
 a{
@@ -51,4 +51,15 @@ a:hover{
 .btn-pak:hover{
     background-color: rgb(25, 25, 204);
     color:white;
+}
+
+.toast-border{
+    border-left: 8px solid rgb(59, 76, 231) ;
+    top:0;
+    right:0;
+    position:absolute;
+}
+
+.toast-relative{
+    position: relative;
 }
