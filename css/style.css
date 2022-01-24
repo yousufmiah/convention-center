@@ -63,3 +63,11 @@ a:hover{
 .toast-relative{
     position: relative;
 }
+
+.phover:hover{
+    background-color:#3F50F5;
+    transform: scale(1.5);
+    transition: all 1.5s ease;
+    z-index: 5;
+    color:white;
+}
