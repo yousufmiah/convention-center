@@ -7,7 +7,7 @@ body{
 }
 
 .text-color{
-    color: rgb(5, 5, 0);
+    color: rgb(0, 0, 0);
 }
 
 a{
@@ -17,4 +17,38 @@ a{
 }
 a:hover{
     color:black;
+}
+
+.fawsom-color{
+    color:rgb(175, 175, 175);
+}
+.font-size{
+    font-size: 15px;
+}
+
+.b-radious{
+    border-radius: 20px;
+  
+}
+
+/* package */
+
+.hot-1{
+    position: relative;
+}
+.hot-2{
+    position: absolute;
+    top:0;
+   right:30px;
+}
+
+.btn-package{
+    padding: 10px 65px;
+    border-radius: 20px;
+    border:none;
+    font-weight: bold;
+}
+.btn-pak:hover{
+    background-color: rgb(25, 25, 204);
+    color:white;
 }
